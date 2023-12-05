@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+    font-family:cursive;
+    }
+    .note{
+        font-size:15px;
+        color:black;
+    }
+    .heading{
+        font-size:23px;
+        width:100%;
+        margin:0px;
+        
+    }
+    .canvas{
+        border:5px solid palevioletred;
+    border-radius:10px;
+    }
+    .btn-warning{
+        font-size:20px;
+    }
